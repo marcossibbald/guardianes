@@ -1,0 +1,87 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+main{
+	width: 1100px;
+	height: 581px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:#13125E ;
+}
+
+header{
+	width: 1100px;
+	height: 20px;
+	background-color: #13125E;
+}
+
+
+
+
+nav a{
+    text-decoration:none;
+    color:#A98B49;
+    font-size: 18px;
+    font-family: GuardianGalaxy, sans-serif;
+}
+nav li{
+    display:inline-flex;
+    width:90%;
+    padding:10px 5px;
+    text-align: auto;
+    color:#A98B49;
+    float: auto;
+    margin-top: -40px;
+}
+nav li:hover{
+    background-color:#000;
+    color:#000;
+}
+
+section{
+	width: 0px;
+	height: 0px;
+}
+
+footer{
+	width: 1100px;
+	height: 700px;
+	background-color: #13125E;
+	clear: both;
+}
+footer li{
+	display: inline-block;
+	width: 1100px;
+	height: 110px;
+}
+#uces{
+	margin-left: 23px;
+	float: left;
+}
+#nombre{
+	margin-left: 10px;
+}
+#marvel{
+	margin-top:0px ;
+	margin-left: 900px;
+}
+
+
+#instagram{
+	margin-bottom: 0px;
+	margin-left: 980px;
+}
+
+#disney{
+	margin-top: 0px;
+	margin-left: 850px;
+}
+
+p{
+	color: #fff;
+	font-size: 15px;
+	font-family: GuardianGalaxy, sans-serif;
+}
